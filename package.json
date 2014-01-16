@@ -18,5 +18,8 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/zhaiduo/twittest-njs/issues"
+  },
+  "engines": {
+    "node": "0.10.x"
   }
 }
